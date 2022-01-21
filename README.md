@@ -3,6 +3,8 @@
 _Infrastructure as code framework used_: AWS SAM
 _AWS Services used_: AWS Lambda, SQS, DynamoDB, DynamoDB Streams
 
+Demo on how to do event source filtering using SQS and DynamoDB streams and AWS Lambda functions
+
 ## Summary of the demo
 
 In this demo you will see:
