@@ -1,0 +1,5 @@
+cli-command.txt
+package-lock.json
+node_modules/
+.vscode/settings.json
+samconfig.toml
